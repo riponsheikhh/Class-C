@@ -1,1 +1,1 @@
-{"name":"Local: 5-4_First_digit","url":"l:\\Class-C\\Module-5\\5-4_First_digit.c","tests":[{"id":1706120351818,"input":"3569","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"l:\\Class-C\\Module-5\\5-4_First_digit.c","group":"local","local":true}
+{"name":"Local: 5-4_First_digit","url":"l:\\Class-C\\Module-5\\5-4_First_digit.c","tests":[{"id":1706120351818,"input":"8564","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"l:\\Class-C\\Module-5\\5-4_First_digit.c","group":"local","local":true}
